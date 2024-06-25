@@ -22,7 +22,6 @@ body {
   margin: 50px auto;
   width: 100%;
   height: 100%;
-  
 }
 
 h1 {
@@ -36,10 +35,9 @@ h1 {
     to right,
     rgb(29, 78, 216),
     rgb(30, 64, 175),
-    rgb(17, 24,39)
+    rgb(17, 24, 39)
   );
   color: transparent;
-  background-clip: text;
   -webkit-background-clip: text;
 }
 
@@ -49,7 +47,7 @@ h1 {
 }
 
 .container input {
-   width: 65%;
+  width: 65%;
   border: none;
   background: none;
   text-align: center;
@@ -65,7 +63,7 @@ h1 {
   outline: none;
 }
 
-.check-btn{
+.check-btn {
   width: 70%;
   height: 50px;
   border: none;
@@ -79,17 +77,15 @@ h1 {
   transition: all 2s ease-in;
 }
 
-
-
 #result {
   box-sizing: border-box;
   width: 100%;
   height: 2.5rem;
- background: linear-gradient(
+  background: linear-gradient(
     to right,
-  rgb(110, 231, 183),
-  rgb(59, 130, 246),
-  rgb(147, 51, 234)
+    rgb(110, 231, 183),
+    rgb(59, 130, 246),
+    rgb(147, 51, 234)
   );
   border-radius: 15px;
   margin: 25px auto 10px auto;
@@ -107,9 +103,9 @@ span {
   transition: 1s ease-in;
   background: linear-gradient(
     to right,
-  rgb(29, 78, 216),
-  rgb(30, 64, 175),
-  rgb(17, 24, 39)
+    rgb(29, 78, 216),
+    rgb(30, 64, 175),
+    rgb(17, 24, 39)
   );
   color: transparent;
   -webkit-background-clip: text;

@@ -1,0 +1,126 @@
+body {
+  font-size: 62.5%;
+  background: linear-gradient(
+    to right,
+    rgb(249, 168, 212),
+    rgb(216, 180, 254),
+    rgb(129, 140, 248)
+  );
+}
+
+.container {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+.palindrome__box {
+  margin: 50px auto;
+  width: 100%;
+  height: 100%;
+  
+}
+
+h1 {
+  padding: 15px;
+  font-weight: bold;
+  font-size: 1.6rem;
+  letter-spacing: 1.5px;
+  text-align: center;
+  text-transform: uppercase;
+  background: linear-gradient(
+    to right,
+    rgb(29, 78, 216),
+    rgb(30, 64, 175),
+    rgb(17, 24,39)
+  );
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.input_box {
+  width: 100%;
+  height: 50px;
+}
+
+.container input {
+   width: 65%;
+  border: none;
+  background: none;
+  text-align: center;
+  height: 10%;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  border-bottom: 2px solid blue;
+  transition: all 0.4s ease-in;
+}
+
+.text__input:focus {
+  width: 100%;
+  outline: none;
+}
+
+.check-btn{
+  width: 70%;
+  height: 50px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 100px;
+  animation: background 2s linear infinite;
+  transition: all 2s ease-in;
+}
+
+
+
+#result {
+  box-sizing: border-box;
+  width: 100%;
+  height: 2.5rem;
+ background: linear-gradient(
+    to right,
+    rgb(110, 231, 183),
+    rgb(59, 130, 246),
+    rgb(147, 51, 234)
+  );
+  border-radius: 15px;
+  margin: 25px auto 10px auto;
+  box-shadow: 5px 5px 10px #fff;
+  text-align: center;
+  padding-top: 5px;
+  font-size: 20px;
+  transition: 2s;
+}
+
+span {
+  font-weight: bold;
+  font-size: 2.5rem;
+  display: inline-block;
+  transition: 1s ease-in;
+  background: linear-gradient(
+    to right,
+    rgb(29, 78, 216),
+    rgb(30, 64, 175),
+    rgb(17, 24, 39)
+  );
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  
+}
+
+.container p {
+  margin: 5px auto;
+  width: 95%;
+  font-size: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}

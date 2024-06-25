@@ -1,11 +1,6 @@
 body {
   font-size: 62.5%;
-  background: linear-gradient(
-    to right,
-    rgb(249, 168, 212),
-    rgb(216, 180, 254),
-    rgb(129, 140, 248)
-  );
+  background: linear-gradient(to right,  rgb(249, 168, 212), rgb(216, 180, 254), rgb(129, 140, 248));
 }
 
 .container {
@@ -31,12 +26,7 @@ h1 {
   letter-spacing: 1.5px;
   text-align: center;
   text-transform: uppercase;
-  background: linear-gradient(
-    to right,
-    rgb(29, 78, 216),
-    rgb(30, 64, 175),
-    rgb(17, 24, 39)
-  );
+  background: linear-gradient(to right, rgb(29, 78, 216), rgb(30, 64, 175), rgb(17, 24, 39));
   color: transparent;
   -webkit-background-clip: text;
 }

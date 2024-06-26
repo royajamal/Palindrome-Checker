@@ -1,8 +1,8 @@
 const checkButton = document.getElementById('check-btn');
 const resultDiv = document.getElementById('result');
 
-checkButton.addEventListener('click', {
-  const userInput = document.getElementById('text-input').value;
+checkButton.addEventListener('click' {
+   userInput = document.getElementById('text-input').value;
 
   if (userInput.trim().length === 0) {
     ('Please input a value');

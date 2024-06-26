@@ -4,7 +4,7 @@
 The Palindrome Checker is a web application that checks whether a given string is a palindrome. It removes non-alphanumeric characters, converts the string to lowercase, and compares it to its reverse to determine if it reads the same backward as forward.
 
 ## Demo 📸
-![Demo]("https://github.com/royajamal/Palindrome-Checker")
+![Demo](https://github.com/royajamal/Palindrome-Checker/)
 
 ## Technologies Used 🛠
 

@@ -4,7 +4,7 @@
 The Palindrome Checker is a web application that checks whether a given string is a palindrome. It removes non-alphanumeric characters, converts the string to lowercase, and compares it to its reverse to determine if it reads the same backward as forward.
 
 ## Demo 📸
-![Demo](img scr="img.png")
+!Demo("https://github.com/royajamal/Palindrome-Checker/assets/168343975/87fca9ac-46a6-47f3-bf7e-c7b1ba5ae018")
 
 ## Technologies Used 🛠
 
@@ -14,7 +14,7 @@ The Palindrome Checker is a web application that checks whether a given string i
 - JavaScript
 
 ## Installation 💻
-To make the most of this project, ensure you have the following tools installed:
+To make the most of this project you have to  install this tools:
 
 Visual Studio Code: A versatile code editor that supports JavaScript development with powerful features and extensions.
 
@@ -22,6 +22,7 @@ Node.js: A JavaScript runtime environment that enables executing JavaScript code
 
 Git: A distributed version control system essential for managing your codebase, tracking changes, and collaborating with others.
 1. Clone the repository:
+
 git clone https://github.com/royajamal/Palindrome-Checker.git
 
 Usage 🎯

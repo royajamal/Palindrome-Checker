@@ -22,7 +22,7 @@ checkButton.addEventListener('click', () => {
     for (let i = 0; i < len / 2; i += 1) {
       if (input[i] !== input[len - 1 - i]) {
         return false;
-       }
+      }
     }
     return true;
   }

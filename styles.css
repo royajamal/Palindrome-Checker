@@ -11,7 +11,7 @@ body {
   height: 400px;
   text-align: center;
   transform: translate(-50%, -50%);
-  }
+}
 
 .palindrome__box {
   margin: 50px auto;
@@ -47,7 +47,7 @@ h1 {
   border-bottom: 2px solid blue;
   transition: all 0.4s ease-in;
 }
-  
+
 .text__input:focus {
   width: 100%;
   outline: none;
@@ -96,8 +96,7 @@ span {
   margin-bottom: 30px;
   text-align: center;
 }
-  
- 
+
 @media (min-width: 769px) {
   .container {
     width: 400px;

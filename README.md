@@ -5,7 +5,7 @@ The Palindrome Checker is a web application that checks whether a given string i
 ## Live (https://royajamal.github.io/Palindrome-Checker/)
 
 ## Demo 📸
-!Demo("https://github.com/royajamal/Palindrome-Checker/assets/168343975/87fca9ac-46a6-47f3-bf7e-c7b1ba5ae018")
+!Demo("https://github.com/royajamal/Palindrome-Checker/assets/168343975/8e3b67f6-570a-47af-bf3a-45c0c4e8f27f")
 
 ## Technologies Used 🛠
 

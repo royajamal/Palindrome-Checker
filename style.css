@@ -98,3 +98,22 @@ span {
   margin-bottom: 30px;
   text-align: center;
 }
+
+@media screen and (min-width: 430px) {
+  .container {
+    width: 30rem;
+    background: transparent;
+    height: auto;
+    text-align: center;
+    margin: 5rem auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px white;
+    padding: 20px;
+     background: linear-gradient(
+    to right,
+    rgb(249, 168, 212),
+    rgb(216, 180, 254),
+    rgb(129, 140, 248)
+     );
+  }
+}
